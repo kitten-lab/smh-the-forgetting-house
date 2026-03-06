@@ -1,6 +1,7 @@
-# Something Mattered Here: The Forgetting House
+# SMH: The Forgetting House
+A **SOMETHING MATTERED HERE FUGUE** Game
 
-Narrative card puzzle game about reconstructing identity through fragmented memory.
+### A non-linear, narrative-driven card puzzle game about reconstructing identity through fragmented memories. 
 
 This repository contains the core design specification for the game system.
 
