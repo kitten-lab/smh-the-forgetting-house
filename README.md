@@ -12,3 +12,11 @@ This repository contains the core design specification for the game system.
 - Multiple interpretations of player identity
 
 See /docs for the full design document.
+
+## Project Status
+Design specification complete.  
+
+## Upcoming Tasks 
+- Produce further documentation for Card Decks and Rooms
+- Visual Gameplay Mockups
+- Example of gameplay (written)
