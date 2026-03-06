@@ -285,7 +285,7 @@ In order to “complete the game”, the player must have at least one of each c
 
 Once players have created Story Cards, they may attempt to reconstruct what happened. There is a slot for each of the Story Pillars in the Memory Deck. The Story Cards placed in the Story Pillar spaces act as modifiers to the Fugue, offering the player unique Emotion and Skill cards only found with Story Cards placed.
 
-### Reconstructing What Happened: The End Game
+## Reconstructing What Happened: The End Game
 
 As the player progresses, more of the Story Pillar positions will become filled. Placing one of each Story Card on the Story Pillars will “complete the game”.
 
