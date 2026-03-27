@@ -1,0 +1,45 @@
+Screen {
+	layout: vertical;
+}
+
+#header {
+	height: 3;
+	content-align: center middle;
+	background: green;
+	dock: top;
+}
+
+#top-bar {
+	height: 3;
+	layout: horizontal;
+}
+
+#game-body {
+	color: red;
+}
+
+#top-bar Static {
+	width: 1fr;
+	content-align: center middle;
+	background: purple;
+}
+
+#game-area {
+	height: 1fr;
+	background: black;
+}
+
+#card-area {
+	height: 7;
+	background: darkblue;
+}
+
+#pillar-column {
+	dock: right;
+	width: 25;
+	background: darkred;
+}
+
+#fugue, #focus, #baseline {
+	width: 1fr;
+}

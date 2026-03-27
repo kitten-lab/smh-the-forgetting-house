@@ -1,4 +1,4 @@
-# SMH: The Forgetting House
+# Silo: The Forgetting House
 A **SOMETHING MATTERED HERE FUGUE** Game
 
 ### A non-linear, narrative-driven card puzzle game about reconstructing identity through fragmented memories. 
